@@ -1,0 +1,39 @@
+body {
+    padding: 0%;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#Heading {
+    align-items: center;
+    background-color: #FE5F55;
+    height: fit-content;
+    width: 100%;
+    border-bottom: 20px;
+}
+
+#display {
+    border-radius: 7px;
+    width: 656.7px;
+    height: 375px;
+    background-position: center;
+    background-color: #8D99AE;
+}
+
+.RestOfBody {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #F7F7FF;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+}
+
+#image {
+    height: fit-content;
+}
